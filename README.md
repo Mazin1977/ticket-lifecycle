@@ -43,7 +43,7 @@ Sev-A (1 hour, 24/7) [entire mobile/online banking system is down] -> SysAdmins
 </p>
 <p>
 sign in as admin to change the status, priority, department, and sometimes sla status,
-you can also assign the ticket to some agent
+you can also assign the ticket to some agent as shown above
  
 </p>
 <br />
