@@ -42,8 +42,8 @@ Sev-A (1 hour, 24/7) [entire mobile/online banking system is down] -> SysAdmins
 <img src="https://i.imgur.com/g0iQdEm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-sign in as admin to change the status, priority, department, and sometimes sla status 
-you can assign the ticket to some agent
+sign in as admin to change the status, priority, department, and sometimes sla status,
+you can also assign the ticket to some agent
  
 </p>
 <br />
