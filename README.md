@@ -55,3 +55,9 @@ you can also assign the ticket to some agent as shown above
 So after the agent fix the ticket problem he should put some note and change the status of ticket to resolved and post reply as shown above
 </p>
 <br />
+<p>
+ <img src ="https://i.imgur.com/B1jJHlk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+and after that you don't see the ticket in open ticket tap but in closed ticke as shown above
+</p>
